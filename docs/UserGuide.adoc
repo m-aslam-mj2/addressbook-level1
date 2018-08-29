@@ -64,7 +64,7 @@ Format: `list`
 
 === Finding a person by keyword `find`
 
-Finds persons that match given keywords. +
+Finds persons that match given keywords (case-insensitive).+
 Format: `find KEYWORD [MORE_KEYWORDS]`
 
 [NOTE]
